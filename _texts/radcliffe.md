@@ -19,7 +19,7 @@ toc:
 <br>
 <p class="centered larger">ATHLIN AND DUNBAYNE.</p>
 
-<p class="centered large">A<br>HIGHLAND<br>STORY.</p>
+<p class="centered large">A HIGHLAND STORY.</p>
 <br>
 
 <p class="centered">ANN RADCLIFFE</p>
