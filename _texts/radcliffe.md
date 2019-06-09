@@ -8,7 +8,7 @@ source: Oxford Text Archive
 publication-date: 2019
 toc:
 - Title Page
-- Chapter I
+- CHAP I
 ---
 
 ---
