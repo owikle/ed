@@ -15,7 +15,7 @@ toc:
 
 <a id="title-page" />
 
-<p class="centered large">THE<br>CASTLES<br>OF</p>
+<p class="centered large">THE CASTLES OF</p>
 <br>
 <p class="centered larger">ATHLIN AND DUNBAYNE.</p>
 
